@@ -1,0 +1,11 @@
+{
+  "kantraImage": "quay.io/konveyor/kantra:latest",
+  "apps": [
+    {
+      "name": "app1",
+      "inputPath": "./data/input/app1",
+      "baselineOutputPath": "./data/baseline_outputs/app1"
+    }
+  ]
+}
+

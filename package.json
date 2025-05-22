@@ -1,0 +1,21 @@
+{
+  "name": "kai-solution-server-evaluation-framework",
+  "version": "0.0.1",
+  "description": "Evaluation framework for Kai solution server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "execa": "^9.5.3",
+    "fs-extra": "^11.3.0"
+  }
+}
